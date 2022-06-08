@@ -31,11 +31,11 @@ do já complexo Sudoku original com restrições adicionais.
 
     problem(2, Rows), sudoku(Rows), maplist(label, Rows), maplist(portray_clause, Rows).
 
-Referências:
-Chat Bot:
-    https://www.youtube.com/watch?v=RS6j-xk_DqU - projeto de Fernando Cesar Ramos, estudante de CC
-    https://swish.swi-prolog.org/example/eliza.pl - chatbot Elysa  
+* Referências:
+    * Chat Bot:
+        * https://www.youtube.com/watch?v=RS6j-xk_DqU - projeto de Fernando Cesar Ramos, estudante de CC
+        * https://swish.swi-prolog.org/example/eliza.pl - chatbot Elysa  
 
-Sudoku:
-    https://www.swi-prolog.org/pldoc/man?section=clpfd-sudoku
-    https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/
+    * Sudoku:
+        * https://www.swi-prolog.org/pldoc/man?section=clpfd-sudoku
+        * https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/
