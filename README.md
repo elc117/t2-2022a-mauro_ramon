@@ -15,10 +15,10 @@
 ##
     'tchau'.
 ##
-* OBS: TODAS as frases devem ser escritas com aspas simples: 'exemplo', 'ola', 'qual eh seu nome?'
-        NÃO usar letras maiúsculas.
-        Lembre-se do . no fim das frases
-        Limitar-se ao uso de caracteres presentes na tabela ASCII, não usar: acentos, '~', 'ç', etc.  
+* TODAS as frases devem ser escritas com aspas simples: 'exemplo', 'ola', 'qual eh seu nome?'
+* NÃO usar letras maiúsculas.
+* Lembre-se do . no fim das frases
+* Limitar-se ao uso de caracteres presentes na tabela ASCII, não usar: acentos, '~', 'ç', etc.  
 
 # Sudoku:
 
