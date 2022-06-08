@@ -31,6 +31,13 @@ do já complexo Sudoku original com restrições adicionais.
 ##
     problem(2, Rows), sudoku(Rows), maplist(label, Rows), maplist(portray_clause, Rows).
 ##
+
+## Atividades propostas:
+* Faça você mesmo!
+    Experimente aumentar a *database* do Josnei!! Seguindo o padrão e as observações no arquivo *chat_database.pl* crie 
+novos padrões de assuntos e respostas para o chat_bot responder.
+* Pesquise outros exemplos de "Miracle Sudoku" e, seguindo o padrão de problemas no arquivo *sudoku.pl*, crie e teste outros problemas para o resolvedor de sudoku miraculoso.
+
 ## Referências:
 ### Chat Bot:
     https://www.youtube.com/watch?v=RS6j-xk_DqU 
