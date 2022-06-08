@@ -17,7 +17,7 @@
 ##
 * TODAS as frases devem ser escritas com aspas simples: 'exemplo', 'ola', 'qual eh seu nome?'
 * NÃO usar letras maiúsculas.
-* Lembre-se do . no fim das frases
+* Lembre-se do . no fim das frases.
 * Limitar-se ao uso de caracteres presentes na tabela ASCII, não usar: acentos, '~', 'ç', etc.  
 
 # Sudoku:
@@ -36,8 +36,7 @@ do já complexo Sudoku original com restrições adicionais.
 
 ## Atividades propostas:
 
-* Faça você mesmo!
-    Experimente aumentar a *database* do Josnei!! Seguindo o padrão e as observações no arquivo *chat_database.pl* crie 
+* Experimente aumentar a *database* do Josnei!! Seguindo o padrão e as observações no arquivo *chat_database.pl* crie 
 novos padrões de assuntos e respostas para o chat_bot responder.
 * Pesquise outros exemplos de "Miracle Sudoku" e, seguindo o padrão de problemas no arquivo *sudoku.pl*, crie e teste outros problemas para o resolvedor de sudoku miraculoso.
 
