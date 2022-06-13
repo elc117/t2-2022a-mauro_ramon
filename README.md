@@ -9,7 +9,7 @@
 * A primeira parte do nosso trabalho consiste num chatbot capaz de analisar mensagens e decodificá-las como um certo padrão a fim de gerar respostas padronizadas para diferentes orações que estão contidas no arquivo chat_database.pl
 * Para dar início ao bate-papo deve-se utilizar:
   * No Windows: A ferramenta swi-prolog, clicar em file, clicar em consult e selecionar o arquivo chat_bot.pl. 
-  * Linux ou MACos: A ferramenta de CLI swipl, inciar com <$ swipl> e então carregar o arquivo <?- [ chat_bot ].>.
+  * Linux ou MAC: A ferramenta de CLI swipl, inciar com <$ swipl> e então carregar o arquivo <?- [ chat_bot ].>.
   * Também é possível utilizar o programa no SWI-SH para navegador.
 * Logo em seguida digite: 
     
@@ -39,10 +39,12 @@ Referências:
 Chat Bot:
 ###
     https://www.youtube.com/watch?v=RS6j-xk_DqU - projeto de Fernando Cesar Ramos, estudante de CC
+###
     https://swish.swi-prolog.org/example/eliza.pl - chatbot Elysa  
 ###
 Sudoku:
 ###
     https://www.swi-prolog.org/pldoc/man?section=clpfd-sudoku
+###
     https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/
 ###
