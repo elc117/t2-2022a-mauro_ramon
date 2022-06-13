@@ -1,8 +1,8 @@
-### Trabalho 2 de Paradigmas da Computação
-## Prolog
+## Trabalho 2 de Paradigmas da Computação
+### Prolog
 
-# Professora: Andrea Schwertner Charão
-# Alunos: Mauro Trevisan e Ramon Godoy
+## Professora: Andrea Schwertner Charão
+## Alunos: Mauro Trevisan e Ramon Godoy
 
 # ChatBot:
 
@@ -37,9 +37,12 @@ do já complexo Sudoku original com restrições adicionais.
 
 Referências:
 Chat Bot:
+###
     https://www.youtube.com/watch?v=RS6j-xk_DqU - projeto de Fernando Cesar Ramos, estudante de CC
     https://swish.swi-prolog.org/example/eliza.pl - chatbot Elysa  
-
+###
 Sudoku:
+###
     https://www.swi-prolog.org/pldoc/man?section=clpfd-sudoku
     https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/
+###
