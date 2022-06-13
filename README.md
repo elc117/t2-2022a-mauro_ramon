@@ -35,14 +35,18 @@ do já complexo Sudoku original com restrições adicionais.
 
     problem(2, Rows), sudoku(Rows), maplist(label, Rows), maplist(portray_clause, Rows).
 
-Referências:
-Chat Bot:
+# Atividades propostas:
+* Aumentar a *database* do josnei, seguindo o padrão contido no arquivo *chat_database.pl*.
+* Procurar outros exemplos de "Miracle Sudoku" e criar novos problemas, seguindo o padrão do arquivo *sudoku.pl*.
+
+## Referências:
+* Chat Bot:
 ###
     https://www.youtube.com/watch?v=RS6j-xk_DqU - projeto de Fernando Cesar Ramos, estudante de CC
 ###
     https://swish.swi-prolog.org/example/eliza.pl - chatbot Elysa  
 ###
-Sudoku:
+* Sudoku:
 ###
     https://www.swi-prolog.org/pldoc/man?section=clpfd-sudoku
 ###
