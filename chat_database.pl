@@ -59,6 +59,8 @@ assunto(Entrada, Assunto) :- Entrada = 'andrea',                        Assunto 
 assunto(Entrada, Assunto) :- Entrada = 'andrea charao',                 Assunto = prof.
 assunto(Entrada, Assunto) :- Entrada = 'andrea schwertner charao',      Assunto = prof.
 
+assunto(Entrada, Assunto) :- Entrada = 'josnei',                        Assunto = chatbot.
+
 assunto(Entrada, Assunto) :- Entrada = 'tchau',                         Assunto = tchau.
 
 assunto(_Entrada, Assunto) :- Assunto = vazio.
@@ -73,6 +75,7 @@ resposta(Assunto, Resposta) :- Assunto = abracos,               Resposta = '[]s'
 resposta(Assunto, Resposta) :- Assunto = beijos,                Resposta = 'S2'.
 resposta(Assunto, Resposta) :- Assunto = programacao,           Resposta = 'Eh uma linguagem de progrmacao'.
 resposta(Assunto, Resposta) :- Assunto = prof,                  Resposta = 'MELHOR PROFESSORA!!!!!!!!!'.
+resposta(Assunto, Resposta) :- Assunto = chatbot,               Resposta = 'Esse sou eu!'.
 
 resposta(Assunto, Resposta) :- Assunto = tchau,                 Resposta = 'Tchau! Foi muito bom falar contigo! Ate mais!'.
 
