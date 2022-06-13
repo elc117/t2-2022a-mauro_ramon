@@ -10,8 +10,8 @@
 * Para dar início ao bate-papo deve-se utilizar:
   * No Windows: A ferramenta swi-prolog, clicar em file, clicar em consult e selecionar o arquivo chat_bot.pl. 
   * Linux ou MACos: A ferramenta de CLI swipl, inciar com <$ swipl> e então carregar o arquivo <?- [ chat_bot ].>.
-    * Também é possível utilizar o programa no SWI-SH para navegador.
-    * Logo em seguida digite: 
+  * Também é possível utilizar o programa no SWI-SH para navegador.
+* Logo em seguida digite: 
     
     start_chat. 
     
